@@ -10,3 +10,4 @@ pypdf
 openpyxl
 statsmodels
 difflib
+tensorflow
